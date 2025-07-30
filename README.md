@@ -13,7 +13,11 @@
 
 ---
 # طريقتاالتثبيت وتشغيل
+```bash
 wget https://github.com/WeJZTeam/Minecraft-Server-Auto-Setup/blob/main/JZminSetup
+
+```
+ذذ
 ## 📋 جدول المحتويات
 
 - [🎯 نظرة عامة](#-نظرة-عامة)
