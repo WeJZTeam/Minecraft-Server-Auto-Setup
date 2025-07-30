@@ -13,7 +13,7 @@
 
 ---
 
-# Installation and Running Methods
+# Installation and Running JZminSetup
 ```bash
 # Download
 wget https://github.com/WeJZTeam/Minecraft-Server-Auto-Setup/blob/main/JZminSetup
