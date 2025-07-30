@@ -16,7 +16,7 @@
 # Installation and Running JZminSetup
 ```bash
 # Download
-wget https://github.com/WeJZTeam/Minecraft-Server-Auto-Setup/blob/main/JZminSetup
+wget https://raw.githubusercontent.com/WeJZTeam/Minecraft-Server-Auto-Setup/main/JZminSetup
 
 # Give permissions
 chmod +x JZminSetup
