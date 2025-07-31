@@ -24,7 +24,13 @@ chmod +x JZminSetup
 # Run
 ./JZminSetup
 ```
-
+# Running Minecraft server
+```bash
+When JZminSetup is closed, it will give you a command to start the server.
+ex:
+  cd <your-server=folder> && java -Xmx1024M -Xms1024M -jar <your-server-file> nogui
+  cd server_paper_1.21.4 && java -Xmx1024M -Xms1024M -jar paper-1.21.4.jar nogui
+```
 ## 📋 Table of Contents
 
 - [🎯 Overview](#-overview)
