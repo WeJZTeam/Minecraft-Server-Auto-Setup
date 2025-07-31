@@ -142,7 +142,7 @@ python JZminSetup.py
 
 1. **Run the tool:**
 ```bash
-python JZminSetup.py
+./JZminSetup
 ```
 
 2. **Choose server type:**
