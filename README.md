@@ -1,5 +1,5 @@
 # 🎮 JZminSetup - Minecraft Server Auto-Setup Tool
-
+setup your server in less than a minute
 <div align="center">
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-Java%20%7C%20Bedrock-brightgreen)
