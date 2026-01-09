@@ -96,7 +96,7 @@ brew install python3 openjdk@8
 
 1. **Clone the project:**
 ```bash
-git clone https://github.com/yourusername/JZminSetup.git
+git clone https://github.com/WeJZTeam/JZminSetup.git
 cd JZminSetup
 ```
 
@@ -322,4 +322,5 @@ SOFTWARE.
 **🎮 Enjoy playing Minecraft with your friends! 🎮**
 
 </div> 
+
 
